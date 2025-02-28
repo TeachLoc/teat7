@@ -1,0 +1,6 @@
+theme: null
+exclude:
+  - Build
+  - TemplateData
+  - .gitignore
+  - _config.yml
